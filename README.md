@@ -57,6 +57,8 @@
     <a href="#about">हाम्रो बारेमा</a>
     <a href="#mission">हाम्रो लक्ष्य</a>
     <a href="#contact">सम्पर्क</a>
+    <a href="#contact">प्राबिधिक प्रबिधि</a>
+    <a href="#contact">कृषि प्रसार</a>
 </nav>
 
 <section id="home">
